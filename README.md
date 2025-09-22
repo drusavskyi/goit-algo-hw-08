@@ -6,10 +6,10 @@
 
 ## Структура Проєкту
 
-goit-algo-hw-08/
+`goit-algo-hw-08/
 ├── main.py
 ├── test_main.py
-└── README.md
+└── README.md`
 
 ### Завдання 1: Пошук найменшого значення в дереві
 
